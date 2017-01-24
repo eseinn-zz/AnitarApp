@@ -9,6 +9,14 @@ react-native run-android EÐA react-native run-ios
 
 
 
+
+****ATH****
+Ef það komu upp villur í sambandi við npm pakkanna í nodu_modules möppunni þá er hægt að sleppa npm install skipuninni og setja inn node_modules
+möppuna sem ég setti inná dropbox (github tekur ekki við henni ) en hún fer beint í AwesomeProject möppuna. Ég lenti sjálfur í villu þegar ég
+reyndi að setja Projectið upp frá grunni aftur en þetta eru nákvæmlega sömu modules (í dropbox) og eru í upprunalega verkefninu þannig að þetta ætti að virka með því.
+
+https://www.dropbox.com/sh/u9wamuct7n1gi8r/AAAVDjRmhX5BYGP0yaFt5a8la?dl=0
+
 Appið keyrist annaðhvort með emulator eða alvöru Android síma, frekari upplýsingar er að finna hér fyrir almenna uppsetningu og keyrslu á emulator:
 
 https://facebook.github.io/react-native/docs/getting-started.html#content
