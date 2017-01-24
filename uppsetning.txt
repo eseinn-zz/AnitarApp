@@ -1,15 +1,25 @@
-Það á að vera nóg að keyra eftirfarandi skipanir í skipanalínu (inni í \AwesomeProject möppunni) en eins og ég tala um í skýrslunni minni þá
-get ég ekki lofað því að appið virki fyrir iOS því ég á ekki sjálfur Mac tölvu
+Það á að vera nóg að keyra eftirfarandi skipanir í skipanalínu (inni í \AwesomeProject möppunni) en eins og ég tala um í skýrslunni minni þá 
 
-react-native run-android
-react-native run-ios
+get ég ekki lofað því að appið virki fyrir iOS því ég á ekki sjálfur Mac tölvu:
+
+
+
+npm install
+react-native run-android EÐA react-native run-ios
+
+
 
 Appið keyrist annaðhvort með emulator eða alvöru Android síma, frekari upplýsingar er að finna hér fyrir almenna uppsetningu og keyrslu á emulator:
-https://facebook.github.io/react-native/docs/getting-started.html#content 
+
+https://facebook.github.io/react-native/docs/getting-started.html#content
+ 
 
 og hér fyrir Android síma:
 https://facebook.github.io/react-native/docs/running-on-device.html
 
+
+
 Ef einhverjir spurningar vakna er ekkert mál að hafa samband við mig,
+
 
 kv. Einar
